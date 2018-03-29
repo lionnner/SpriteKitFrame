@@ -1,0 +1,2 @@
+# SpriteKitFrame
+SpriteKitFrame Category
